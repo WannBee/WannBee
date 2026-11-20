@@ -52,6 +52,7 @@
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 <p align="center">
   <img src="https://github.com/WannBee/WannBee/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
