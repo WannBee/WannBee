@@ -6,7 +6,7 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/WannBee"/> 
+ <img src="https://badges.pufler.dev/visits/WannBee/WannBee"/> 
  <!-- <img src="https://badges.pufler.dev/years/[USERNAME_GITHUB_ANDA]"/> -->
  <img src="https://badges.pufler.dev/repos/WannBee"/>
  <img src="https://badges.pufler.dev/commits/monthly/WannBee" />
